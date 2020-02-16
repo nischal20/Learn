@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F8FB-1482
+
+ Directory of C:\Users\nipatel\OneDrive - Itron\Desktop\MyProject
+
+02/16/2020  11:32 AM    <DIR>          .
+02/16/2020  11:32 AM    <DIR>          ..
+02/16/2020  11:32 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  29,485,158,400 bytes free
